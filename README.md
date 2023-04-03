@@ -8,4 +8,5 @@ Once the current song finishes playing, the system fetches a new song from the A
 Setup:
 1. Set your OpenAI api key.
 2. Set your spotify username and password (it just stays in the code, never published. required to login to spotify web browser.)
-3. Set the first song's name and artist and enjoy the continuous flow of harmonious music.
+3. Set your selenium chrome driver's path (line 50)
+4. Set the first song's name and artist and enjoy the continuous flow of harmonious music.
